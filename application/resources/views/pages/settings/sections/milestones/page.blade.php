@@ -24,7 +24,7 @@
 
 @if(config('system.settings_type') == 'standalone')
 <!--[standalone] - settings documentation help-->
-<a href="https://growcrm.io/documentation" target="_blank" class="btn btn-sm btn-info help-documentation"><i
+<a href="https://servidorseguro.mysuite1.com.br/client/login.php?sl=eqs" target="_blank" class="btn btn-sm btn-info help-documentation"><i
         class="ti-info-alt"></i>
     {{ cleanLang(__('lang.help_documentation')) }}
 </a>
